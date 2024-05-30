@@ -21,6 +21,6 @@ while True:
     else:
         zahl = int(zahl)
         if ist_primzahl(zahl):
-            print(str(zahl) + " ist eine Primzahl.")
+            print(str(zahl) + " ist EINE KRASSE Primzahl.")
         else:
-            print(str(zahl) + " ist keine Primzahl.")
+            print(str(zahl) + " ist KEINE Primzahl DU OPFER.")
